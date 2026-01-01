@@ -3,14 +3,14 @@ An AI-powered Resume Builder web application that allows users to create, edit, 
 
 🚀 Features
 
-🔐 User Authentication (JWT-based)
-📝 Create & Edit Resumes
-🤖 AI-powered enhancement for:
+🔐 User Authentication (JWT-based)<br>
+📝 Create & Edit Resumes<br>
+🤖 AI-powered enhancement for:<br>
 Professional Summary
 Experience Descriptions
-🖼 Upload Profile Image (ImageKit integration)
-🎨 Multiple Resume Templates & Accent Colors
-👁 Public / Private Resume Toggle
-🔗 Shareable Resume Link
-📥 Download Resume (Print-ready)
-📱 Fully Responsive UI
+🖼 Upload Profile Image (ImageKit integration)<br>
+🎨 Multiple Resume Templates & Accent Colors<br>
+👁 Public / Private Resume Toggle<br>
+🔗 Shareable Resume Link<br>
+📥 Download Resume (Print-ready)<br>
+📱 Fully Responsive UI<br>
